@@ -1,0 +1,1 @@
+start "camera" adb_load_camera.bat
